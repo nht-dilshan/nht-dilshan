@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Uva Wellassa University Sri Lanka**
 
-- 💬 Ask me about **react,flutter**
+- 💬 Ask me about **react,html,php**
 
 - 📫 How to reach me **tharindudilshan6263@gmail.com**
 
