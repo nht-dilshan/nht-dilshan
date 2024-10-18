@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nht-dilshan&label=Profile%20views&color=0e75b6&style=flat" alt="nht-dilshan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Tharindu Dilshan" alt="Tharindu Dilshan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nhtdilshan" target="blank"><img src="https://img.shields.io/twitter/follow/nhtdilshan?logo=twitter&style=for-the-badge" alt="nhtdilshan" /></a> </p>
 
